@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Sistema KM para Rotaract Club La Paz",
+    "paragraph": "Realizado por Pecezuelos S.A."
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -162,23 +162,18 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "TDR del proyecto",
+      "link": "https://docs.google.com/document/d/1jX7-wzAOQwq5iDhbmmh2WL3bG_KxKSQcSMMZUlscDBg/edit?usp=drive_link"
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Carta de aceptación del proyecto",
+      "link": "https://docs.google.com/document/d/1bqoRNJy3vB5d0mE_3dCcZ9UTuyA6miKV3gncv1OSbyE/edit?usp=drive_link"
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-group",
+      "title": "Gestión de riesgos",
+      "link": "https://docs.google.com/document/d/1xXt06GzRozcJ1roWJsE_V1_DTmLtZ1e_T9Gilq1ByYQ/edit?usp=drive_link"
     }
   ]
 }
