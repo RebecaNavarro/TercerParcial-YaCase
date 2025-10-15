@@ -5,11 +5,7 @@ export const Services = (props) => {
     <div id="services" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Our Services</h2>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
-          </p>
+          <h2>{props.title}</h2>
         </div>
         <div className="row">
           {props.data
@@ -20,6 +16,9 @@ export const Services = (props) => {
                   <div className="service-desc">
                     <h3>{d.name}</h3>
                     <p>{d.text}</p>
+                    <a href={d.link} target="_blank" rel="noreferrer" className="btn btn-primary">
+                      Ver documento
+                    </a>
                   </div>
                 </div>
               ))

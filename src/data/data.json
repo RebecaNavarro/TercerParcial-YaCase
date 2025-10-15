@@ -3,177 +3,130 @@
     "title": "Sistema KM para Rotaract Club La Paz",
     "paragraph": "Realizado por Pecezuelos S.A."
   },
-  "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
-  },
-  "Gallery": [
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
-    }
-  ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-calendar",
+      "name": "Cronograma del proyecto",
+      "text": "Documento que detalla las actividades, hitos y plazos del proyecto.",
+      "link": "https://drive.google.com/file/d/1NBInwQPZz66XiPLSTmnXqpqepSX3xckh/view?usp=drive_link"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cogs",
+      "name": "Uso de herramientas y planificación",
+      "text": "Documento que detalla las herramientas utilizadas y la planificación del proyecto.",
+      "link": "https://docs.google.com/document/d/1vM5J19dXGyhnlW35rmCR9boc_W_bkk6g4LZrmZUSANE/edit?usp=drive_link"
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-shield",
+      "name": "Gestión de riesgos",
+      "text": "Documento que detalla los riesgos identificados y las estrategias de mitigación.",
+      "link": "https://docs.google.com/document/d/1xXt06GzRozcJ1roWJsE_V1_DTmLtZ1e_T9Gilq1ByYQ/edit?usp=drive_link"
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-lightbulb-o",
+      "name": "IDEF0",
+      "text": "Diagrama que representa las funciones y procesos del sistema.",
+      "link": "https://drive.google.com/file/d/1cOndaLnEriRMfSRI5iAr-IcIvjpWyBHJ/view?usp=drive_link"
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
-  ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "icon":"fa fa-bullseye",
+      "name":"IDEF1",
+      "text":"Diagrama que representa los datos y su estructura en el sistema.",
+      "link":"https://drive.google.com/file/d/10UoD-SrHvigri4h0Ii-u_1JzPxuTq8Ol/view?usp=drive_link"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Rebeca Navarro",
+      "job": "CEO"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Valeria Zerain",
+      "job": "CTO"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Jhonatan Cabezas",
+      "job": "Senior Developer"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
+      "name": "Zein Tonconi",
       "job": "Project Manager"
     }
   ],
-  "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
-  },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
+      "icon":"fa fa-bullseye",
+      "title":"Diagrama Ishikawa",
+      "text":"Diagrama que ayuda a identificar las causas raíz de un problema específico.",
+      "link":"https://drive.google.com/file/d/1vPMcbWheuverChZUT-_r5uXvn4Wa7LDE/view?usp=drive_link"
+    },
+    {
+      "icon": "fa fa-cogs",
+      "title": "Nivel de Coherencia",
+      "text": "Documento que evalúa la coherencia entre los objetivos del proyecto y las necesidades del cliente.",
+      "link": "https://docs.google.com/document/d/12Osxl9momGcqdqmGZKVMmm7fbd6FBhTL/edit?usp=drive_link&ouid=102919955111237031667&rtpof=true&sd=true"
+    },
+    {
+      "icon": "fa fa-file",
       "title": "TDR del proyecto",
+      "text": "Documento que detalla los requerimientos y especificaciones del proyecto.",
       "link": "https://docs.google.com/document/d/1jX7-wzAOQwq5iDhbmmh2WL3bG_KxKSQcSMMZUlscDBg/edit?usp=drive_link"
     },
     {
-      "icon": "fa fa-group",
-      "title": "Carta de aceptación del proyecto",
+      "icon": "fa fa-users",
+      "title": "Carta de aceptación",
+      "text": "Documento que formaliza la aceptación del proyecto por parte de los interesados.",
       "link": "https://docs.google.com/document/d/1bqoRNJy3vB5d0mE_3dCcZ9UTuyA6miKV3gncv1OSbyE/edit?usp=drive_link"
+    }
+  ],
+  "Ejecucion": [
+    {
+      "icon":"fa fa-list",
+      "title":"Análisis de requerimientos",
+      "text":"Diagrama que ayuda a identificar las causas raíz de un problema específico.",
+      "link":"https://docs.google.com/document/d/1qRm3johgguxIQTXqyg1hTgXVVhm5lyxU267kP6cgk9o/edit?usp=drive_link"
     },
     {
-      "icon": "fa fa-group",
-      "title": "Gestión de riesgos",
-      "link": "https://docs.google.com/document/d/1xXt06GzRozcJ1roWJsE_V1_DTmLtZ1e_T9Gilq1ByYQ/edit?usp=drive_link"
+      "icon": "fa fa-file",
+      "title": "Casos de uso",
+      "text": "Documento con los casos de uso del sistema.",
+      "link": "https://docs.google.com/document/d/1RTfGu2KB8UROqrIAFLZk4ast2b2fPtu3Xe8br9B7RDA/edit?usp=drive_link"
+    },
+    {
+      "icon": "fa fa-cubes",
+      "title": "C4 Model",
+      "text": "Modelo con contexto y contenedores del sistema.",
+      "link": ""
+    },
+    {
+      "icon": "fa fa-desktop",
+      "title": "Diseño de pantallas",
+      "text": "Documento que formaliza la aceptación del proyecto por parte de los interesados.",
+      "link": "https://www.figma.com/design/syhIAyJIGKNn5wLSbVew9o/KMS-Rotaract?node-id=2-2&t=hESOrCq3HSWXWwcE-1"
+    }
+  ],
+  "Cierre": [
+    {
+      "icon": "fa fa-users",
+      "name": "Evaluación y feedback",
+      "text": "Entrevistas realizadas a los interesados para evaluar el proyecto.",
+      "link": ""
+    },
+    {
+      "icon": "fa fa-file",
+      "name": "Manuales",
+      "text": "Manual de usuario y de sistema.",
+      "link": ""
+    },
+    {
+      "icon": "fa fa-archive",
+      "name": "Carta de entrega",
+      "text": "Carta que formaliza la entrega del proyecto al cliente.",
+      "link": ""
     }
   ]
 }
