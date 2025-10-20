@@ -87,18 +87,6 @@
       "title": "Cálculo de costos",
       "text": "Presentación con el método de cálculos COCOMO",
       "link": "https://www.canva.com/design/DAG1zjP6CHY/DNuA8yf2FEuNkCSx_RdGXw/edit?utm_content=DAG1zjP6CHY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "title": "Diagrama de actividad",
-      "text": "Diagramas de actividades",
-      "link": "https://drive.google.com/drive/folders/18EDrNxMd7CrE09JkDpYmMB1L2PHMrDeH?usp=drive_link"
-    },
-    {
-      "icon": "fa fa-puzzle-piece",
-      "title": "Diagrama de secuencia",
-      "text": "Diagramas de secuencias basadas en los casos de uso",
-      "link": "https://drive.google.com/drive/folders/1EJ-MnNEqFjtn3zj-TPAMUmLwEMsZSt-z?usp=drive_link"
     }
   ],
   "Ejecucion": [
@@ -125,6 +113,18 @@
       "title": "Diseño de pantallas",
       "text": "Documento que formaliza la aceptación del proyecto por parte de los interesados.",
       "link": "https://www.figma.com/design/syhIAyJIGKNn5wLSbVew9o/KMS-Rotaract?node-id=2-2&t=hESOrCq3HSWXWwcE-1"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "title": "Diagrama de actividad",
+      "text": "Diagramas de actividades",
+      "link": "https://drive.google.com/drive/folders/18EDrNxMd7CrE09JkDpYmMB1L2PHMrDeH?usp=drive_link"
+    },
+    {
+      "icon": "fa fa-puzzle-piece",
+      "title": "Diagrama de secuencia",
+      "text": "Diagramas de secuencias basadas en los casos de uso",
+      "link": "https://drive.google.com/drive/folders/1EJ-MnNEqFjtn3zj-TPAMUmLwEMsZSt-z?usp=drive_link"
     }
   ],
   "Cierre": [
