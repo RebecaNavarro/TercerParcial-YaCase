@@ -1,38 +1,34 @@
 {
   "Header": {
-    "title": "Sistema KM para Rotaract Club La Paz",
+    "title": "Ya Case",
     "paragraph": "Realizado por Pecezuelos S.A."
   },
+  "Features": [
+    {
+      "icon": "fa fa-university",
+      "name": "Presentación del emprendimiento",
+      "text": "Documento que detalla la misión, visión, objetivos y alcances del emprendimiento.",
+      "link": "https://docs.google.com/document/d/1pdkyqgeKkk2-dzdCOE-_vbYBJRyUtHqrrfrFET3OOq0/edit?usp=sharing"
+    }
+  ],
   "Services": [
     {
-      "icon": "fa fa-calendar",
-      "name": "Cronograma del proyecto",
-      "text": "Documento que detalla las actividades, hitos y plazos del proyecto.",
-      "link": "https://drive.google.com/file/d/1NBInwQPZz66XiPLSTmnXqpqepSX3xckh/view?usp=drive_link"
+      "icon": "fa fa-users",
+      "name": "Diagrama Jerárquico",
+      "text": "Documento que muestra la estructura de la empresa",
+      "link": "https://drive.google.com/file/d/1aw9R1BGV_uI3OPQf7h_hvRW-QbkQ9odT/view?usp=sharing"
     },
     {
-      "icon": "fa fa-cogs",
-      "name": "Uso de herramientas y planificación",
-      "text": "Documento que detalla las herramientas utilizadas y la planificación del proyecto.",
-      "link": "https://docs.google.com/document/d/1vM5J19dXGyhnlW35rmCR9boc_W_bkk6g4LZrmZUSANE/edit?usp=drive_link"
+      "icon": "fa fa-tasks",
+      "name": "Manual de funciones",
+      "text": "Documento que detalla las funciones y responsabilidades de cada rol dentro del proyecto.",
+      "link": "https://docs.google.com/document/d/1q93l-NqvBt5xPc1P4by9KdffBvPNAilb5H2Y6Dxjl38/edit?usp=sharing"
     },
     {
       "icon": "fa fa-shield",
       "name": "Gestión de riesgos",
       "text": "Documento que detalla los riesgos identificados y las estrategias de mitigación.",
-      "link": "https://docs.google.com/document/d/1xXt06GzRozcJ1roWJsE_V1_DTmLtZ1e_T9Gilq1ByYQ/edit?usp=drive_link"
-    },
-    {
-      "icon": "fa fa-lightbulb-o",
-      "name": "IDEF0",
-      "text": "Diagrama que representa las funciones y procesos del sistema.",
-      "link": "https://drive.google.com/file/d/1cOndaLnEriRMfSRI5iAr-IcIvjpWyBHJ/view?usp=drive_link"
-    },
-    {
-      "icon":"fa fa-bullseye",
-      "name":"IDEF1",
-      "text":"Diagrama que representa los datos y su estructura en el sistema.",
-      "link":"https://drive.google.com/file/d/10UoD-SrHvigri4h0Ii-u_1JzPxuTq8Ol/view?usp=drive_link"
+      "link": "https://docs.google.com/document/d/1SNOfz6hdcDgd41ddlyFyLsOemQl7pbDzWC6zXpFtZDU/edit?usp=sharing"
     }
   ],
   "Team": [
@@ -57,100 +53,47 @@
       "job": "Project Manager"
     }
   ],
-  "Features": [
+  
+  "Ejecucion": [
     {
-      "icon":"fa fa-bullseye",
-      "title":"Diagrama Ishikawa",
-      "text":"Diagrama que ayuda a identificar las causas raíz de un problema específico.",
-      "link":"https://drive.google.com/file/d/1vPMcbWheuverChZUT-_r5uXvn4Wa7LDE/view?usp=drive_link"
+      "icon":"fa fa-link",
+      "title":"Flujos de trabajo - General y por Áreas",
+      "text":"Diagrama que ayuda a entender el flujo de trabajo general y por áreas del sistema.",
+      "link":"https://drive.google.com/drive/folders/1ngwl5KJ94YPsiWzfyZ4gjqQ-SLS726Uw?usp=sharing"
     },
     {
-      "icon": "fa fa-cogs",
-      "title": "Nivel de Coherencia",
-      "text": "Documento que evalúa la coherencia entre los objetivos del proyecto y las necesidades del cliente.",
-      "link": "https://docs.google.com/document/d/12Osxl9momGcqdqmGZKVMmm7fbd6FBhTL/edit?usp=drive_link&ouid=102919955111237031667&rtpof=true&sd=true"
+      "icon": "fa fa-code",
+      "title": "Herramientas",
+      "text": "Documento que detalla las herramientas utilizadas en el desarrollo del proyecto.",
+      "link": "https://docs.google.com/document/d/1_REsnuRefv3iNUGApdiTS_Fp2vzskjpFmuy0laiXlY4/edit?usp=sharing"
     },
     {
-      "icon": "fa fa-file",
-      "title": "TDR del proyecto",
-      "text": "Documento que detalla los requerimientos y especificaciones del proyecto.",
-      "link": "https://docs.google.com/document/d/1jX7-wzAOQwq5iDhbmmh2WL3bG_KxKSQcSMMZUlscDBg/edit?usp=drive_link"
-    },
+      "icon": "fa fa-calendar",
+      "title": "Cronogramas",
+      "text": "Cronogramas de actividades del proyecto.",
+      "link": "https://docs.google.com/document/d/1NHuzykzGepbq6uDhfUFw_umSDC74DBX09QQxwtUdBnc/edit?usp=sharing"
+    }
+  ],
+  "QA": [
     {
-      "icon": "fa fa-users",
-      "title": "Carta de aceptación",
-      "text": "Documento que formaliza la aceptación del proyecto por parte de los interesados.",
-      "link": "https://docs.google.com/document/d/1bqoRNJy3vB5d0mE_3dCcZ9UTuyA6miKV3gncv1OSbyE/edit?usp=drive_link"
+      "icon": "fa fa-check",
+      "name": "Actividades y Controles de Calidad",
+      "text": "Documentos que detallan las actividades y controles de calidad implementados durante el proyecto.",
+      "link": "https://drive.google.com/drive/folders/1QtzOYsv8WdC745W7ePUL8mu6BP0WfM3Q?usp=sharing"
     },
     {
       "icon": "fa fa-money",
-      "title": "Cálculo de costos",
-      "text": "Presentación con el método de cálculos COCOMO",
-      "link": "https://www.canva.com/design/DAG1zjP6CHY/DNuA8yf2FEuNkCSx_RdGXw/edit?utm_content=DAG1zjP6CHY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
-    }
-  ],
-  "Ejecucion": [
-    {
-      "icon":"fa fa-list",
-      "title":"Análisis de requerimientos",
-      "text":"Diagrama que ayuda a identificar las causas raíz de un problema específico.",
-      "link":"https://docs.google.com/document/d/1qRm3johgguxIQTXqyg1hTgXVVhm5lyxU267kP6cgk9o/edit?usp=drive_link"
-    },
-    {
-      "icon": "fa fa-file",
-      "title": "Casos de uso",
-      "text": "Documento con los casos de uso del sistema.",
-      "link": "https://docs.google.com/document/d/1RTfGu2KB8UROqrIAFLZk4ast2b2fPtu3Xe8br9B7RDA/edit?usp=drive_link"
-    },
-    {
-      "icon": "fa fa-cubes",
-      "title": "C4 Model",
-      "text": "Modelo con contexto y contenedores del sistema.",
-      "link": "https://www.canva.com/design/DAG1zT7Ls8M/JFRowAqixzOo9HItUzOT9Q/edit"
-    },
-    {
-      "icon": "fa fa-desktop",
-      "title": "Diseño de pantallas",
-      "text": "Documento que formaliza la aceptación del proyecto por parte de los interesados.",
-      "link": "https://www.figma.com/design/syhIAyJIGKNn5wLSbVew9o/KMS-Rotaract?node-id=2-2&t=hESOrCq3HSWXWwcE-1"
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "title": "Diagrama de actividad",
-      "text": "Diagramas de actividades",
-      "link": "https://drive.google.com/drive/folders/18EDrNxMd7CrE09JkDpYmMB1L2PHMrDeH?usp=drive_link"
-    },
-    {
-      "icon": "fa fa-puzzle-piece",
-      "title": "Diagrama de secuencia",
-      "text": "Diagramas de secuencias basadas en los casos de uso",
-      "link": "https://drive.google.com/drive/folders/1EJ-MnNEqFjtn3zj-TPAMUmLwEMsZSt-z?usp=drive_link"
+      "name": "Evaluación de Costos",
+      "text": "Documento que detalla la evaluación de costos del proyecto.",
+      "link": "https://docs.google.com/spreadsheets/d/1ZuDDfFVnYgBdC9Qa1VkiPe0s2RB2czWg/edit?usp=sharing&ouid=109044690647271376052&rtpof=true&sd=true"
     }
   ],
   "Cierre": [
     {
-      "icon": "fa fa-users",
+      "icon": "fa fa-gavel",
       "name": "Evaluación y feedback",
       "text": "Entrevistas realizadas a los interesados para evaluar el proyecto.",
-      "link": "https://docs.google.com/document/d/1SJ03o6WKEor_m_aXguPuUVWA9_Cwl5PNSD1d4-mvxXE/edit?usp=drive_link"
-    },
-    {
-      "icon": "fa fa-file",
-      "name": "Manual de usuario",
-      "text": "Manual gráfico acerca de como usar el KMS.",
-      "link": "https://drive.google.com/file/d/1bJRYDEe2n1TRwfAdsavDs3jJ4EPr_mL4/view?usp=drive_link"
-    },
-    {
-      "icon": "fa fa-file",
-      "name": "Manual de sistema",
-      "text": "Manual de sistema con toda la información necesaria para la administración del sistema.",
-      "link": "https://docs.google.com/document/d/1sd-u3INjME7ZZNoeNHmwxMnuXZ5C1mZ_rsW8A7zudNw/edit?usp=drive_link"
-    },
-    {
-      "icon": "fa fa-archive",
-      "name": "Carta de entrega",
-      "text": "Carta que formaliza la entrega del proyecto al cliente.",
-      "link": "https://docs.google.com/document/d/1DYRiu_RXnHp3YmX8VA0FVgrHn62lgFjNglsyKEPZA38/edit?usp=drive_link"
+      "link": "https://docs.google.com/document/d/1hycZFJMSLtZZ7_eY96sCNOZy2abB-Ib-Xg1q4ooAq1Q/edit?usp=sharing"
     }
   ]
 }

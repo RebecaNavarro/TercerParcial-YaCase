@@ -27,9 +27,10 @@ const App = () => {
     <div>
       <Navigation />
       <Header data={landingPageData.Header} />
-      <Features data={landingPageData.Features} title="Fase de Inicio" />
+      <Features data={landingPageData.Features} title="Fase de Presentación" /> 
       <Services data={landingPageData.Services} title="Fase de Planificación" />
       <Features data={landingPageData.Ejecucion} title="Fase de Desarrollo y Diseño" />
+      <Features data={landingPageData.QA} title="Fase de Control de Calidad y Evaluación de Costos" />
       <Services data={landingPageData.Cierre} title="Fase de Cierre" />
       <Team data={landingPageData.Team} />
     </div>
